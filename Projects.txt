@@ -16,3 +16,4 @@ Create backend server according to db dump and make queries running fine.
 
 Task:-Watch github , netlify , MySQL Workbench use , ER diagram , Make a group , watch all 5 videos , select one project for working , and write their doubts in notepad .
 everyone should have some queries related to project.
+---------------------------------------------------------------------------------
