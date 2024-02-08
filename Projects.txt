@@ -1,0 +1,18 @@
+Projects 
+
+Date 07/02/2024
+Java Web Development Project Guide:- HTML , CSS , JavaScript , MySQL , Core java technologies based Projects :-
+Explain brief about Documentation of Project , BRS , SRS .
+Kick start with database find which tables are needed .
+Make relationship between them using keys .
+Create Basic functionality using HTML , CSS ,Javascript .
+Create backend server according to db dump and make queries running fine.
+
+1.Car rental system  =  https://www.youtube.com/watch?v=MHJnHv88WSI (Fully java based )
+2.Student Management system = https://www.youtube.com/watch?v=RqWJTEbGDZs
+3.Basic crud functionality = https://www.youtube.com/watch?v=La5cL2jNoVw 
+4.User management app = https://www.youtube.com/watch?v=RqiuxA_OFOk (Fully java based )
+5.Information management app = https://www.youtube.com/watch?v=Qw4s8IHDLkY (HTML , CSS , Javascript)
+
+Task:-Watch github , netlify , MySQL Workbench use , ER diagram , Make a group , watch all 5 videos , select one project for working , and write their doubts in notepad .
+everyone should have some queries related to project.
