@@ -1,0 +1,31 @@
+Git - Git is small Distibuted Verioning Control System.
+When u clone something your system itself working as a server machine u cloned.
+It is also called as Source control tool.
+
+Master Branch
+where all production ready
+
+developer branch
+develop code - test code - confirm code and after merge that code
+
+pwd -present working directory.
+
+git log --oneline --decorate
+git branch develop
+git status
+git checkout develop
+git log --oneline --decorate
+git status
+//after we modify some change like add some file and delte existing file this will show some red msg
+//after that this will be in staging area u have to explicitely commit that part
+
+
+now my requirment is to merge a branch 
+git checkout main
+git status
+git merge develop
+
+
+
+now my requirement is to merge all data from develop branch to main.
+git push origin main 
