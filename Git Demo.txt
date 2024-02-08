@@ -29,3 +29,5 @@ git merge develop
 
 now my requirement is to merge all data from develop branch to main.
 git push origin main 
+
+------------------------------------------------------------------------------------
